@@ -7,6 +7,7 @@ public class Homepage {
 
     // made some changes in the Alex branch
 
+    // added logo working in Alex branch
 
 
 }
